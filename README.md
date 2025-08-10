@@ -1,3 +1,7 @@
+# Fork changes
+- Switched to Paper API
+- Updated to Minecraft 1.21.8
+
 # Celeste - Add shooting stars to your Minecraft server
 Celeste is a simple plugin that adds shooting stars to your Minecraft server. Inspired by the shooting stars from Animal Crossing and the falling stars from Breath of the Wild, this plugin brings some celestial ambience to your Minecraft world.
 
